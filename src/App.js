@@ -1,8 +1,7 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
-import Forms from './Forms'
-
+import Forms from "./Forms";
 
 function App() {
   return (
